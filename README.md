@@ -1,4 +1,4 @@
-## Hola
+## ⚡
 
 💃 I like python and dotfiles
 
