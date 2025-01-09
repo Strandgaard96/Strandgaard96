@@ -1,6 +1,5 @@
-## ⚡
 
-💃 I like python and dotfiles
+⚡ I like python and dotfiles
 
 
 
