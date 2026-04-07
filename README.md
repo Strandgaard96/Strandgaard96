@@ -1,5 +1,5 @@
 
-⚡ I like python and dotfiles
+⚡ I like science, python and dotfiles
 
 
 
