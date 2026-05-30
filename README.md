@@ -1,7 +1,7 @@
 
 ⚡ I like science, python and dotfiles
 
-Links: [drmaggi.com/](https://drmaggi.com/)
+Links: [links.strandgaard.dev/](https://links.strandgaard.dev/)
 
 
 <!--
