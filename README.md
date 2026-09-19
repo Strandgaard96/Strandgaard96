@@ -1,7 +1,6 @@
 
 ⚡ I like science, python and dotfiles
-
-Links: [links.strandgaard.dev/](https://links.strandgaard.dev/)
+ [links.strandgaard.dev/](https://links.strandgaard.dev/)
 
 
 <!--
