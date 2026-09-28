@@ -1,6 +1,6 @@
 
-⚡ I like science, python and dotfiles
- [links.strandgaard.dev/](https://links.strandgaard.dev/)
+⚡ I like science, programming and dotfiles
+ [strandgaard.dev/](https://strandgaard.dev/)
 
 
 <!--
